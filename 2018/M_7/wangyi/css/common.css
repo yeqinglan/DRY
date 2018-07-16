@@ -1,0 +1,13 @@
+*{
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+div{
+	display: block;
+}
+body{
+	font-family: "microsoft yahei","微软雅黑",verdana;
+	color:#333;
+}
+
